@@ -1,3 +1,4 @@
-##Franco Campanari Antunez
+Nombre: Franco 
+Apellido: Campanari Antunez
 
-#26 años
+Edad: 26 años
